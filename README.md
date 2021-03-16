@@ -12,8 +12,8 @@
     - React Native
     - Electron
 
-#### Projetos em andamento
-
+#### Projetos de destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurBottcher&repo=Bolim)](https://github.com/ArthurBottcher/Bolim)
 #### Redes Sociais
 
 
