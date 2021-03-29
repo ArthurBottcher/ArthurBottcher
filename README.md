@@ -25,6 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurBottcher&repo=Bolim&theme=react)](https://github.com/ArthurBottcher/Bolim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurBottcher&repo=TheGreatKhali&theme=react)](https://github.com/ArthurBottcher/TheGreatKhali)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurBottcher&repo=stopwatch_vue_electron&theme=react)](https://github.com/ArthurBottcher/stopwatch_vue_electron)
 
 #### Linguagens
 
